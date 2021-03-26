@@ -15,3 +15,5 @@ Project that scrapes all tracks from user's playlists and generate a plot of mos
 
 <img src="result.png">
 
+Plot is really big so I suggest to open it in full resolution.
+Data was scraped from my account which contained around 1350 tracks in my playlists. However, total sum of given genres might be bigger because some tracks contained few genres.
